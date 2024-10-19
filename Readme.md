@@ -20,10 +20,15 @@
   Many courier services like FedEx, UPS, DHL, and others provide APIs for tracking packages. The app can integrate with these APIs. Some tracking services to consider:
 
   - FedEx API
+       - https://developer.fedex.com/api/en-us/catalog/track/v1/docs.html
   - UPS API
+       - https://developer.ups.com/api/reference?loc=en_US#tag/Time-in-Transit
   - DHL API
+       - https://developer.dhl.com/api-reference/shipment-tracking#get-started-section/
   - USPS API
+       - https://developer.usps.com/api/87
   - DELIVERY API
+       - https://help.delhivery.com/docs/api-token-generation
   - SHIPROCKET API
        - https://www.shiprocket.in/developers/
   - INDIAN SPEED POST API
