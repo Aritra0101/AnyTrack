@@ -25,7 +25,11 @@
   - USPS API
   - DELIVERY API
   - SHIPROCKET API
+       - https://www.shiprocket.in/developers/
   - INDIAN SPEED POST API
+       - https://www.data.gov.in/resource/international-speed-post-ems-network
+       - https://www.data.gov.in/resource/international-speed-post-ems-network-0
+       - https://rapidapi.com/relu-consultancy-relu-consultancy-default/api/indian-post-tracker
 
   For couriers without APIs, you might need to scrape tracking pages (though this is less reliable).
 
